@@ -31,6 +31,7 @@
  - 	DOMAIN-SUFFIX,anthropic.com
  - 	DOMAIN-SUFFIX,claude.ai
  - 	DOMAIN-SUFFIX,claudeusercontent.com
+ - 	DOMAIN-SUFFIX,datadoghq.com
 	
 #	Cursor
  - 	DOMAIN-SUFFIX,cursor.sh
